@@ -1,0 +1,8 @@
+# model output and GRASS database are produced by a run, not stored here
+model/grassdata/
+model/FINAL_results/
+*_results/
+places*.csv
+places*_series.npz
+__pycache__/
+.DS_Store
